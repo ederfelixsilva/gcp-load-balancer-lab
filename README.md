@@ -1200,7 +1200,7 @@ Os principais diferenciais técnicos desta implementação são:
 
 <div align="center">
 
-**Feito com ☁️ e ☕ por [Seu Nome]**
+**Feito com ☁️ e ☕ por Éder Félix**
 
 ![GCP](https://img.shields.io/badge/Powered_by-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Bash](https://img.shields.io/badge/Automated_with-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
